@@ -35,7 +35,7 @@
 
   - According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
-    I post a blog about the detail, you can find it here.
+    I post a blog about the detail, you can find it [here](https://medium.com/@akhilanurag03/sparkify-a-use-case-on-churn-prediction-c9ba14d23df8).
 
 ### Next Steps
   - The full dataset is 12GB, of which we have analyzed a mini subset in the workspace environment. Optionally, we can choose to deploy a Spark cluster on the cloud using AWS or IBM Cloud to analyze a larger amount of data.
